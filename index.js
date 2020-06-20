@@ -11,7 +11,7 @@ let selection = d3
   .select("#site-container")
   .select("#graph-container")
   .append("svg")
-  .attr("width", 60 + "%")
+  .attr("width", 100 + "%")
   .attr("height", 100 + "%")
   .style("border", "1px solid black");
 
